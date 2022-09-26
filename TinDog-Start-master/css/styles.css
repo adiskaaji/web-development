@@ -1,0 +1,140 @@
+#title {
+  background-color: #29BAED;
+  color: #FFFFFF;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: Bold;
+  font-size: 4rem;
+  line-height: 1.5;
+}
+
+h2{
+  font-family: "Montserrat", sans-serif;
+  font-weight: Bold;
+  font-size: 3rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+h3{
+  font-family: "Montserrat", sans-serif;
+  font-weight: Bold;
+  font-size: 1.5rem;
+}
+
+.card-header{
+  font-family: "Montserrat", sans-serif;
+  font-weight: Bold;
+  font-size: 1.5rem;
+}
+
+/********** Navbar CSS **********/
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.navbar {
+  padding-bottom: 3rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+.nav-item {
+  padding: 0 16px;
+}
+
+.nav-link {
+  font-size: 1rem;
+  font-weight: lighter;
+  color: white;
+}
+
+/********** Button CSS **********/
+.btn-download {
+  margin: 8% 2% 8% 0;
+}
+
+/********** Image CSS **********/
+.img-iphone {
+  transform: rotate(30deg);
+  width: 50%;
+  position: relative;
+  top: 0;
+  left: 160px;
+}
+
+/********** Features CSS **********/
+
+.icon{
+color: #29BAED;
+margin-bottom: 24px;
+}
+
+.icon:hover{
+  color: #FC8080;
+}
+
+#features{
+  padding: 7% 15%;
+  text-align: center;
+
+}
+
+.features-box{
+  padding: 48px;
+}
+
+/********** Testimonials CSS **********/
+
+#testimonials{
+  background-color: #229BC5;
+  text-align: center;
+  color: white;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+.testimonials-img {
+  width: 8%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #229BC5;
+  text-align: center;
+  padding-bottom: 5%;
+}
+
+.press-logo {
+  width: 8%;
+  margin: 20px 20px 50px;
+}
+
+/********** Cards CSS **********/
+#pricing{
+  padding-top: 4rem;
+  text-align: center;
+}
+
+.card{
+  margin: 2rem 2rem 2rem 2rem;
+}
+
+.title-pricing{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
